@@ -1,0 +1,34 @@
+C:\Users\Waldemar\source\repos\Maciek361\TrafficMap3\TrafficMap3\bin\Debug\netcoreapp3.1\TrafficMap3.exe
+C:\Users\Waldemar\source\repos\Maciek361\TrafficMap3\TrafficMap3\bin\Debug\netcoreapp3.1\TrafficMap3.deps.json
+C:\Users\Waldemar\source\repos\Maciek361\TrafficMap3\TrafficMap3\bin\Debug\netcoreapp3.1\TrafficMap3.runtimeconfig.json
+C:\Users\Waldemar\source\repos\Maciek361\TrafficMap3\TrafficMap3\bin\Debug\netcoreapp3.1\TrafficMap3.runtimeconfig.dev.json
+C:\Users\Waldemar\source\repos\Maciek361\TrafficMap3\TrafficMap3\bin\Debug\netcoreapp3.1\TrafficMap3.dll
+C:\Users\Waldemar\source\repos\Maciek361\TrafficMap3\TrafficMap3\bin\Debug\netcoreapp3.1\TrafficMap3.pdb
+C:\Users\Waldemar\source\repos\Maciek361\TrafficMap3\TrafficMap3\obj\Debug\netcoreapp3.1\TrafficMap3.csproj.AssemblyReference.cache
+C:\Users\Waldemar\source\repos\Maciek361\TrafficMap3\TrafficMap3\obj\Debug\netcoreapp3.1\TrafficMap3.Form1.resources
+C:\Users\Waldemar\source\repos\Maciek361\TrafficMap3\TrafficMap3\obj\Debug\netcoreapp3.1\TrafficMap3.Properties.Resources.resources
+C:\Users\Waldemar\source\repos\Maciek361\TrafficMap3\TrafficMap3\obj\Debug\netcoreapp3.1\TrafficMap3.csproj.GenerateResource.cache
+C:\Users\Waldemar\source\repos\Maciek361\TrafficMap3\TrafficMap3\obj\Debug\netcoreapp3.1\TrafficMap3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Waldemar\source\repos\Maciek361\TrafficMap3\TrafficMap3\obj\Debug\netcoreapp3.1\TrafficMap3.AssemblyInfoInputs.cache
+C:\Users\Waldemar\source\repos\Maciek361\TrafficMap3\TrafficMap3\obj\Debug\netcoreapp3.1\TrafficMap3.AssemblyInfo.cs
+C:\Users\Waldemar\source\repos\Maciek361\TrafficMap3\TrafficMap3\obj\Debug\netcoreapp3.1\TrafficMap3.csproj.CoreCompileInputs.cache
+C:\Users\Waldemar\source\repos\Maciek361\TrafficMap3\TrafficMap3\obj\Debug\netcoreapp3.1\TrafficMap3.dll
+C:\Users\Waldemar\source\repos\Maciek361\TrafficMap3\TrafficMap3\obj\Debug\netcoreapp3.1\TrafficMap3.pdb
+C:\Users\Waldemar\source\repos\Maciek361\TrafficMap3\TrafficMap3\obj\Debug\netcoreapp3.1\TrafficMap3.genruntimeconfig.cache
+D:\Dokumenty\Studia Informatyka\II rok\II sem\Systemy Operacyjne\TrafficMap3\TrafficMap3\bin\Debug\netcoreapp3.1\TrafficMap3.exe
+D:\Dokumenty\Studia Informatyka\II rok\II sem\Systemy Operacyjne\TrafficMap3\TrafficMap3\bin\Debug\netcoreapp3.1\TrafficMap3.deps.json
+D:\Dokumenty\Studia Informatyka\II rok\II sem\Systemy Operacyjne\TrafficMap3\TrafficMap3\bin\Debug\netcoreapp3.1\TrafficMap3.runtimeconfig.json
+D:\Dokumenty\Studia Informatyka\II rok\II sem\Systemy Operacyjne\TrafficMap3\TrafficMap3\bin\Debug\netcoreapp3.1\TrafficMap3.runtimeconfig.dev.json
+D:\Dokumenty\Studia Informatyka\II rok\II sem\Systemy Operacyjne\TrafficMap3\TrafficMap3\bin\Debug\netcoreapp3.1\TrafficMap3.dll
+D:\Dokumenty\Studia Informatyka\II rok\II sem\Systemy Operacyjne\TrafficMap3\TrafficMap3\bin\Debug\netcoreapp3.1\TrafficMap3.pdb
+D:\Dokumenty\Studia Informatyka\II rok\II sem\Systemy Operacyjne\TrafficMap3\TrafficMap3\obj\Debug\netcoreapp3.1\TrafficMap3.csproj.AssemblyReference.cache
+D:\Dokumenty\Studia Informatyka\II rok\II sem\Systemy Operacyjne\TrafficMap3\TrafficMap3\obj\Debug\netcoreapp3.1\TrafficMap3.Form1.resources
+D:\Dokumenty\Studia Informatyka\II rok\II sem\Systemy Operacyjne\TrafficMap3\TrafficMap3\obj\Debug\netcoreapp3.1\TrafficMap3.Properties.Resources.resources
+D:\Dokumenty\Studia Informatyka\II rok\II sem\Systemy Operacyjne\TrafficMap3\TrafficMap3\obj\Debug\netcoreapp3.1\TrafficMap3.csproj.GenerateResource.cache
+D:\Dokumenty\Studia Informatyka\II rok\II sem\Systemy Operacyjne\TrafficMap3\TrafficMap3\obj\Debug\netcoreapp3.1\TrafficMap3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dokumenty\Studia Informatyka\II rok\II sem\Systemy Operacyjne\TrafficMap3\TrafficMap3\obj\Debug\netcoreapp3.1\TrafficMap3.AssemblyInfoInputs.cache
+D:\Dokumenty\Studia Informatyka\II rok\II sem\Systemy Operacyjne\TrafficMap3\TrafficMap3\obj\Debug\netcoreapp3.1\TrafficMap3.AssemblyInfo.cs
+D:\Dokumenty\Studia Informatyka\II rok\II sem\Systemy Operacyjne\TrafficMap3\TrafficMap3\obj\Debug\netcoreapp3.1\TrafficMap3.csproj.CoreCompileInputs.cache
+D:\Dokumenty\Studia Informatyka\II rok\II sem\Systemy Operacyjne\TrafficMap3\TrafficMap3\obj\Debug\netcoreapp3.1\TrafficMap3.dll
+D:\Dokumenty\Studia Informatyka\II rok\II sem\Systemy Operacyjne\TrafficMap3\TrafficMap3\obj\Debug\netcoreapp3.1\TrafficMap3.pdb
+D:\Dokumenty\Studia Informatyka\II rok\II sem\Systemy Operacyjne\TrafficMap3\TrafficMap3\obj\Debug\netcoreapp3.1\TrafficMap3.genruntimeconfig.cache
